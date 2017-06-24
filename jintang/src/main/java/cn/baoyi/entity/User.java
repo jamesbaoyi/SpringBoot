@@ -1,4 +1,4 @@
-package cn.baoyi.Entity;
+package cn.baoyi.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 

@@ -1,6 +1,6 @@
 package cn.baoyi.controller;
 
-import cn.baoyi.Entity.User;
+import cn.baoyi.entity.User;
 import cn.baoyi.repository.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
 package cn.baoyi.repository;
 
-import cn.baoyi.Entity.User;
+import cn.baoyi.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
